@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context="com.cretlabs.jobintentservice.MainActivity">
 
+
     <TextView
         android:id="@+id/tv_data"
         android:layout_width="wrap_content"
